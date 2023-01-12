@@ -1,1 +1,1 @@
-![profile.jpg](https://unobs.github.io/uno.jpg)
+![profile.jpg](profile.jpg)
