@@ -1,2 +1,1 @@
-# yo2uno
-![profile.jpg](profile/profile.jpg)
+#![profile.jpg](profile/profile.jpg)
